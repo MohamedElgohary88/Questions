@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="btn_questions_text">- Questions -</string>
+    <string name="btn_rate_app_text">- Rate App -</string>
+    <string-array name="ques">
+        <item>Why do you want to be a data analyst?</item>
+        <item>Which area would you prefer to work in and why? </item>
+        <item>Which data analysis tools do you frequently use?</item>
+        <item>Tell me about the most difficult data analysis
+project you’ve done. </item>
+        <item>Take a few minutes to explain how you would estimate
+how many pounds of cheese are purchased in France every May. </item>
+        <item>What are your communication strengths? </item>
+        <item>How do you handle stress? </item>
+        <item>What are your long-term goals? </item>
+        <item> Why should we hire you?</item>
+        <item> Do you have any questions? </item>
+    </string-array>
+</resources>

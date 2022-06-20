@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ans">
+        <item> There are a plethora of roles out there for data analysts, across a range of industries.
+            Your response to this question will tell the interviewer about your thought process in
+            choosing this role. In your response, discuss why you were drawn to data analysis in the
+            first place, the key skills you’ll bring to the role, and why you’re interested in this
+            role in particular. And remember: Enthusiasm goes a long way!
+“A data analyst’s job is to take data and use it to help companies make better business decisions.
+            I want to make a tangible impact in my job, so that aspect really appeals to me.
+            Additionally, I’ve loved numbers since I was a little kid, and I’m good at collecting
+            data and doing market research, so this field seemed like a natural fit. This role lets
+            me use my skills in a collaborative environment, where I can learn from some of the best
+            minds in the industry.”
+ </item>
+        <item> There are many types of data analyst roles, including operations analysts, marketing
+            analysts, financial analysts, and business analysts. Your answer should be based on your
+            individual preferences. Be specific in your response to show the interviewer that you’ve
+            done your research.
+
+“I would prefer to work as a marketing analyst because it’s most in line with my skills and interests.
+            I love studying consumer behavior and having a real impact on a company’s success.
+            In addition, I’ve seen that companies that hire for this role work in growing industries
+            and can therefore provide good career growth and exciting opportunities.”
+</item>
+        <item>This question tells the interviewer whether you have the necessary hard skills—and it
+            can provide insight into areas in which you might need further training. In your answer,
+            include any tools emphasized in the job description, as well as your individual experience
+            with those tools. Be sure to use familiar terminology. Here’s a sample answer:
+
+“I’ve used a variety of tools over the past few years. At my current employer, I use Weka for
+            data management and data mining tasks. I’ve been using Excel since I first started
+            doing data analysis, and I’m also fairly well versed in Python, Tableau, and SQL.”
+        </item>
+        <item> With a question like this, the interviewer gains insight into how you approach
+            and solve problems and gets a better idea of the type of work you have already done.
+            To ensure you focus on the details and subsequent result, use the STAR method for
+            this behavioral interview question. Avoid blaming others in your response; instead,
+            focus on how you overcame the challenges to yield a successful result.
+“My most difficult project was a pricing optimization problem. I was given five products, each
+            of which had different pros and cons. They varied in quality and customer reviews,
+            and my company wanted to identify the highest prices we could charge without
+            significantly reducing demand for the products. It was really tough because I was
+            unfamiliar with optimization algorithms, but I utilized an algorithm that identified
+            the relative price of each product, and I scaled them to absolute prices using
+            historical data. Then, I tracked sales after setting the prices to identify how they
+            affected demand, and I iterated on the prices to ensure optimization. Ultimately,
+            the project led to our increasing sales revenue by 20 percent.”
+ </item>
+        <item> Interviewers ask this type of question to get a better picture of your thought
+            process without the help of computers and data sets. In your answer, clearly and
+            concisely walk the interviewer through your process, touching on how you would
+            identify the variables/data segments. The interviewer is looking for your ability
+            to communicate your thought process, as well as your overall creativity. This example
+            response touches on all these points:
+“First, I would gather data on how many people live in France. Then, I’d identify what
+            percentage of
+those people purchase cheese and the average amount of cheese each buyer purchases. Since I’mlooking
+for buying patterns in a specific month, I’d find out if there’s a seasonality to buying
+cheese. If May was a more popular month for purchasing cheese, I would scale my
+calculations accordingly.”
+</item>
+        <item>Communication is key in any position. As a data analyst, you will be expected to
+successfully present your findings and translate your numerical findings into accessible
+concepts and themes. Assure the interviewer of your ability to communicate with an answer
+like this:
+“My greatest communication strength would have to be my ability to relay information. I’m good at
+speaking in a simple, effective manner, so that even people who aren’t familiar with the
+terms can grasp the overall concepts. I think communication is extremely valuable in a
+ role like this, especially when it comes to presenting my findings. Data doesn’t do any
+good if no one understands what it means.”
+</item>
+        <item>In asking this question, the interviewer wants to ensure that you won’t crack under
+pressure. The best way to answer this question is to use the STAR method to give a
+specific example of how you handled stress in a previous job, internship, or class.
+That way, the interviewer can get a clear picture of how well you work in demanding
+situations. Avoid mentioning a time when you put yourself in a needlessly stressful
+situation. Rather, describe a time when you were given a difficult task or multiple
+ assignments and rose to the occasion:
+“I actually work better under pressure; I’ve found that I enjoy working in a challenging environment.
+I get really energized by short turnarounds and multiple projects because I have to
+prioritize and produce. Then, I actually do some of my best work. For example, last year,
+I had three major essays due in the same week, which was a lot of pressure. However,
+I broke each day into blocks of time and created a schedule that detailed how I would
+break down each essay into individual components with clear deadlines. In the end, I
+completed all three essays ahead of time—and avoided additional stress.”
+</item>
+        <item>This is similar to the classic question, “Where do you see yourself in five years?”
+The interviewer wants to know that you’re in this for the long run and that you’re a good
+fit. Knowing what the company wants and values will help you speak to your ability
+to solve their unique problems and grow with them. Do not discuss your personal goals
+outside of work, such as having a family or traveling around the world.
+Instead, do your research ahead of time, using their website, recent news articles,
+and LinkedIn. Then, highlight how your goals fit with their culture and future plans.
+“My long-term goals involve growing with a company and continuing to learn, taking on additional
+responsibilities, and contributing as much value as I can. As a data analyst,
+I look forward to taking on increasingly complex problems. I love that your company
+is mission-driven, as working in a role where I can have a concrete positive impact
+is important to me.”
+</item>
+          <item>In asking this question, the interviewer is really asking, “What makes you the best
+fit for this position?” Your answer should be a concise sales pitch that explains
+ what you have to offer the employer. Keep it short and confident, highlighting what
+differentiates you from all the other data analysts out there.
+“I’ve worked across a variety of industries and will bring that knowledge to your company to
+ deliver innovative solutions. I also have a track of success, both academically and
+professionally, so you know that I can get results. And while many data analysts prefer
+to be behind a computer, I love interfacing with others and pride myself on my strong
+communication skills—so I can code, do presentations, and talk to clients.
+ </item>
+        <item>At the close of the interview, most interviewers ask whether you have any questions
+about the job or company. As a data analyst, your job is to ask the hard questions,
+find the gaps, and determine the solutions, so you should have some strong questions
+at the ready. Ask questions about the role, the company, or the team:
+“How does the [analytics] team communicate their findings to the rest of the company?”
+“What are some examples of recent work that the team has done?”
+“What will the onboarding and training process look like?” </item>
+
+    </string-array>
+</resources>

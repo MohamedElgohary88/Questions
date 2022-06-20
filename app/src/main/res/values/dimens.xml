@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_questions_width">220dp</dimen>
+    <dimen name="btn_questions_height">60dp</dimen>
+
+    <dimen name="btn_rate_app_width">180dp</dimen>
+    <dimen name="btn_rate_app_height">60dp</dimen>
+    <dimen name="btn_rate_app_text">30sp</dimen>
+    <dimen name="btn_questions_text">30sp</dimen>
+</resources>
